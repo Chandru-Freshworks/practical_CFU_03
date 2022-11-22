@@ -1,0 +1,89 @@
+@import url(https://fonts.google.com/specimen/Barlow);
+*{
+    font-family: Barlow;
+}
+
+
+.logo{
+    margin-left: 50px;
+    margin-top: 25px;
+}
+.btn1{
+    height: 30px;
+    
+    margin-top: 25px;
+    margin-left: 700px;
+}
+.head1{
+    margin-left: 50px;
+    font-size: 50px;
+}
+.para1{
+    margin-left: 50px;
+    font-style: normal;
+    font-size: 15px;
+
+}
+.main2{
+    display: flex;
+    
+}
+.btn2{
+    margin-left: 50px;
+    margin-top: 20px;
+    height: 30px;
+    color: white;
+    background-color: hsl(22, 89%, 52%);
+    border: none;
+    border-radius: 5px;
+}
+.p1{
+    
+    margin-left: 180px;
+    margin-top: 20px;
+
+    
+}
+.p2{
+    padding-left: 70px;
+    padding-top: 150px;
+}
+.p3{
+    padding-top:300px ;
+    padding-right:400px;
+}
+.img1{
+    width: 200px;
+    height: 350px;
+    margin-left: 50px;
+    margin-top: 70px;
+    border-radius: 10px;
+    padding-bottom: 550px;
+
+}
+.img2{
+    width: 300px;
+    height: 350px;
+    padding-left: 20px;
+    border-radius: 10px;
+    margin-top: 70px;
+    margin-bottom: 550px;
+    
+}
+.img3{
+    width: 200px;
+    display: flex;
+    height: 350px;
+    margin-bottom: 950px;
+    padding-left: 600px;
+    
+}
+
+.svg{
+    background-color: hsl(221, 23%, 58%);
+
+}
+
+.imagediv{
+    display: inline-block;
+}
